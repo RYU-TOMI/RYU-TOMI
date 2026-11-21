@@ -10,6 +10,12 @@
 
 ## 주요 작업
 
+<p>
+  <a href="https://github.com/LightOn-LEF-27/LightOnWeb"><img src="assets/lightonweb.png" width="49%" alt="LightOnWeb 분석 화면: 채널 그래프, 트랙맵, g-g 선도"></a>
+  <a href="https://galmal.kr"><img src="assets/galmal.png" width="49%" alt="갈래말래: 서울 출발 항공권 특가 지도"></a>
+</p>
+<sub>왼쪽: LightOnWeb 분석 화면. 저장소에 들어 있는 합성 데모 세션으로 띄운 것이고 실제 차량 데이터가 아닙니다. 오른쪽: galmal.kr</sub>
+
 | 프로젝트 | 무엇인가 | 내가 한 것 |
 |---|---|---|
 | [**LightOnWeb**](https://github.com/LightOn-LEF-27/LightOnWeb) | 포뮬러 전기차 주행 데이터. 로깅 장비 7종의 기록을 한 형식으로 바꾸고 장비 간 시계를 맞추는 엔진, 데이터 뷰어, 트랙용 실시간 화면. MIT | 엔진과 사이트. DAQ 파트 2명 중 커밋은 전부 본인. Python · FastAPI · React · uPlot |

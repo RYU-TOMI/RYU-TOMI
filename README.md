@@ -10,6 +10,12 @@ Computer engineering undergrad in Seoul. I build **data pipelines and tools arou
 
 ## Selected work
 
+<p>
+  <a href="https://github.com/LightOn-LEF-27/LightOnWeb"><img src="assets/lightonweb.png" width="49%" alt="LightOnWeb analysis screen: channel graphs, track map and g-g diagram"></a>
+  <a href="https://galmal.kr"><img src="assets/galmal.png" width="49%" alt="galmal: map of flight deals departing Seoul"></a>
+</p>
+<sub>Left: LightOnWeb analysis screen, running on the synthetic demo sessions that ship with the repo (not real car data). Right: galmal.kr.</sub>
+
 | Project | What it is | My part |
 |---|---|---|
 | [**LightOnWeb**](https://github.com/LightOn-LEF-27/LightOnWeb) | Formula Student EV telemetry: an engine that normalizes 7 logger formats into one schema and aligns device clocks, plus a data viewer and a live trackside screen. MIT. | Engine and site, sole committer on a 2-person DAQ team. Python · FastAPI · React · uPlot |
