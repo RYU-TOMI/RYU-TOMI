@@ -6,7 +6,7 @@ Computer engineering undergrad in Seoul. I build **data pipelines and tools arou
 
 - **Now:** DAQ (data acquisition) for [LightOn](https://github.com/LightOn-LEF-27), a Formula Student electric team, aiming at FSK E-Formula 2027
 - **Heading toward:** vehicle software, especially the data and tooling side
-- **How I work:** I build with Claude Code and say so. I own the scope, the structure, and the verification, and I write down what the AI got wrong.
+- **How I work:** I build with Claude Code. I own the scope, the structure, and the verification, and I write down what the AI got wrong.
 
 ## Selected work
 
